@@ -1,0 +1,19 @@
+title: Deep Shikha Srivastava
+description: Materials Scientist | Entrepreneur | Educator
+author: Deep Shikha Srivastava
+email: deep_shikha.srivastava@uconn.edu
+
+# Social links
+linkedin: deep-shikha-srivastava-9ab12240
+orcid: # Add your ORCID iD here when available
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Resources/
